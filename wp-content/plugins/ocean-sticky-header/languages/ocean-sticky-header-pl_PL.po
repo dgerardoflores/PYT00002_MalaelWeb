@@ -1,0 +1,134 @@
+# Copyright (C) 2016 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://oceanwp.org/support/\n"
+"POT-Creation-Date: 2017-07-29 19:44+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-04-10 15:48+0200\n"
+"Language-Team: OceanWP\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"Language: pl_PL\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ocean-sticky-header.php:150 ocean-sticky-header.php:159
+msgid "Cheatin&#8217; huh?"
+msgstr "Oszukujemy&#8217; co?"
+
+#: ocean-sticky-header.php:214
+msgid "Ocean Sticky Header requires that you use OceanWP as your parent theme."
+msgstr "Ocean Sticky Header wymaga żebyś używał OceanWP jako głównego motywu."
+
+#: ocean-sticky-header.php:214
+msgid "Install OceanWP now"
+msgstr "Zainstaluj OceanWP"
+
+#: ocean-sticky-header.php:247
+msgid "Sticky Header"
+msgstr "Przyklejony nagłówek motywu"
+
+#: ocean-sticky-header.php:248
+msgid "Some options do not work with all the header styles."
+msgstr "Niektóre opcje nie działają ze wszystkimi stylami nagłówka."
+
+#: ocean-sticky-header.php:261
+msgid "Sticky Top Bar"
+msgstr "Przyklejony pasek górny"
+
+#: ocean-sticky-header.php:277
+msgid "Sticky Mobile"
+msgstr "Przyklejenie na urządzeniach mobilnych"
+
+#: ocean-sticky-header.php:293
+msgid "Full Width Scrolling"
+msgstr "Przewijanie na pełnej szerokości"
+
+#: ocean-sticky-header.php:310
+msgid "No Shadow When Scrolling"
+msgstr "Brak cienia przy przewijaniu"
+
+#: ocean-sticky-header.php:326
+msgid "Sticky Style"
+msgstr "Styl przyklejenia"
+
+#: ocean-sticky-header.php:346 ocean-sticky-header.php:368
+msgid "Sticky Height"
+msgstr "Wysokość przyklejenia"
+
+#: ocean-sticky-header.php:435
+msgid "Sticky Padding (px)"
+msgstr "Odstęp przyklejenia (px)"
+
+#: ocean-sticky-header.php:469
+msgid "Sticky Opacity"
+msgstr "Przezroczystość przyklejenia"
+
+#: ocean-sticky-header.php:488
+msgid "Logo"
+msgstr "Logo"
+
+#: ocean-sticky-header.php:502
+msgid "Sticky Logo"
+msgstr "Przyklejone logo"
+
+#: ocean-sticky-header.php:503
+msgid "If you want to display a different logo when scrolling (optional)"
+msgstr "Jeśli chcesz wyświetlić inne logo w trakcie przewijania (opcjonalne)"
+
+#: ocean-sticky-header.php:518
+#, fuzzy
+msgid "Sticky Retina Logo"
+msgstr "Przyklejone logo Retina"
+
+#: ocean-sticky-header.php:534
+msgid "Logo Height On Sticky"
+msgstr "Wysokość logo na przyklejonym nagłówku"
+
+#: ocean-sticky-header.php:555
+msgid "Styling"
+msgstr "Styl"
+
+#: ocean-sticky-header.php:569
+msgid "Background Color"
+msgstr "Kolor tła"
+
+#: ocean-sticky-header.php:584
+msgid "Links Color"
+msgstr "Kolor linków"
+
+#: ocean-sticky-header.php:599
+msgid "Links Color: Hover"
+msgstr "Kolor linków po najechaniu"
+
+#: ocean-sticky-header.php:614
+msgid "Current Menu Item Color"
+msgstr "Kolor obecnego obiektu menu"
+
+#: ocean-sticky-header.php:629
+msgid "Links Background Color"
+msgstr "Kolor tła linków"
+
+#: ocean-sticky-header.php:644
+msgid "Links Background Color: Hover"
+msgstr "Kolor tła linków po najechaniu"
+
+#: ocean-sticky-header.php:659
+msgid "Current Menu Item Background"
+msgstr "Kolor tła obecnego obiektu menu"
+
+#: ocean-sticky-header.php:674
+msgid "Simple Social Links Color"
+msgstr "Kolor Simple Social Links"
+
+#: ocean-sticky-header.php:690
+msgid "Simple Social Links Color: Hover"
+msgstr "Kolor Simple Social Links po najechaniu"

@@ -1,0 +1,307 @@
+2022-08-10T03:28:55+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_error_page_template_content() in /bitnami/wordpress/wp-content/themes/oceanwp/404.php:15
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include()
+#1 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#2 /opt/bitnami/wordpress/index.php(17): require('...')
+#3 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/404.php en la línea 15
+
+2022-08-10T03:28:55+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T03:28:55+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T03:28:55+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T03:28:56+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T03:30:23+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T03:30:23+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T03:30:23+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T03:30:23+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T03:31:26+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T03:31:40+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_is_woo_shop() in /bitnami/wordpress/wp-content/themes/oceanwp/woocommerce/loop/loop-start.php:14
+Stack trace:
+#0 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1123): wc_get_template()
+#2 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(649): woocommerce_product_loop_start()
+#3 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(400): WC_Shortcode_Products->get_content()
+#5 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(299): WC_Template_Loader::unsupported_theme_tax_archive_init()
+#6 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(307): WC_Template_Loader::unsupported_theme_init()
+#7 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#8 /opt/bitnami/wordpress/wp-includes/plugin.php(476): WP_Hook->do_action()
+#9 /opt/bitnami/wordpress/wp-includes/template-loader.php(13): do_action()
+#10 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#11 /opt/bitnami/wordpress/index.php(17): require('...')
+#12 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/woocommerce/loop/loop-start.php en la línea 14
+
+2022-08-10T03:44:39+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_is_woo_shop() in /bitnami/wordpress/wp-content/themes/oceanwp/woocommerce/loop/loop-start.php:14
+Stack trace:
+#0 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1123): wc_get_template()
+#2 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(649): woocommerce_product_loop_start()
+#3 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(400): WC_Shortcode_Products->get_content()
+#5 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(299): WC_Template_Loader::unsupported_theme_tax_archive_init()
+#6 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(307): WC_Template_Loader::unsupported_theme_init()
+#7 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#8 /opt/bitnami/wordpress/wp-includes/plugin.php(476): WP_Hook->do_action()
+#9 /opt/bitnami/wordpress/wp-includes/template-loader.php(13): do_action()
+#10 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#11 /opt/bitnami/wordpress/index.php(17): require('...')
+#12 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/woocommerce/loop/loop-start.php en la línea 14
+
+2022-08-10T03:54:19+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_error_page_template_content() in /bitnami/wordpress/wp-content/themes/oceanwp/404.php:15
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include()
+#1 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#2 /opt/bitnami/wordpress/index.php(17): require('...')
+#3 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/404.php en la línea 15
+
+2022-08-10T04:08:27+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T04:16:57+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_error_page_template_content() in /bitnami/wordpress/wp-content/themes/oceanwp/404.php:15
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include()
+#1 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#2 /opt/bitnami/wordpress/index.php(17): require('...')
+#3 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/404.php en la línea 15
+
+2022-08-10T04:24:28+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T04:27:04+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T04:30:41+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T04:30:42+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T04:33:42+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T04:41:52+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_error_page_template_content() in /bitnami/wordpress/wp-content/themes/oceanwp/404.php:15
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include()
+#1 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#2 /opt/bitnami/wordpress/index.php(17): require('...')
+#3 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/404.php en la línea 15
+
+2022-08-10T04:50:17+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T05:04:32+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_is_woo_shop() in /bitnami/wordpress/wp-content/themes/oceanwp/woocommerce/loop/loop-start.php:14
+Stack trace:
+#0 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1123): wc_get_template()
+#2 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(649): woocommerce_product_loop_start()
+#3 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(400): WC_Shortcode_Products->get_content()
+#5 /bitnami/wordpress/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(299): WC_Template_Loader::unsupported_theme_tax_archive_init()
+#6 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(307): WC_Template_Loader::unsupported_theme_init()
+#7 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#8 /opt/bitnami/wordpress/wp-includes/plugin.php(476): WP_Hook->do_action()
+#9 /opt/bitnami/wordpress/wp-includes/template-loader.php(13): do_action()
+#10 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#11 /opt/bitnami/wordpress/index.php(17): require('...')
+#12 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/woocommerce/loop/loop-start.php en la línea 14
+
+2022-08-10T05:08:44+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T05:13:11+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /bitnami/wordpress/wp-content/themes/oceanwp/header.php:10
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template.php(770): require_once()
+#1 /opt/bitnami/wordpress/wp-includes/template.php(716): load_template()
+#2 /opt/bitnami/wordpress/wp-includes/general-template.php(48): locate_template()
+#3 /bitnami/wordpress/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /opt/bitnami/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/header.php en la línea 10
+
+2022-08-10T05:30:01+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_error_page_template_content() in /bitnami/wordpress/wp-content/themes/oceanwp/404.php:15
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-includes/template-loader.php(106): include()
+#1 /opt/bitnami/wordpress/wp-blog-header.php(19): require_once('...')
+#2 /opt/bitnami/wordpress/index.php(17): require('...')
+#3 {main}
+  thrown en /bitnami/wordpress/wp-content/themes/oceanwp/404.php en la línea 15
+

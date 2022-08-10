@@ -1,0 +1,227 @@
+# Copyright (C) 2021 OceanWP
+# This file is distributed under the same license as the Ocean Footer Callout package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocean Footer Callout 2.0.1\n"
+"Report-Msgid-Bugs-To: https://oceanwp.org/support/\n"
+"POT-Creation-Date: 2021-09-06 06:58:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: OceanWP\n"
+"Language-Team: OceanWP\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: "
+"_esc_attr__;esc_attr_x;esc_attr_e;esc_html__;esc_html_e;esc_html_x;__;_e;__"
+"ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_"
+"ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Textdomain-Support: yes\n"
+
+#: ocean-footer-callout.php:141 ocean-footer-callout.php:150
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ocean-footer-callout.php:229
+msgid "Footer Callout"
+msgstr ""
+
+#: ocean-footer-callout.php:250
+msgid "Select Template"
+msgstr ""
+
+#: ocean-footer-callout.php:251
+msgid "Choose a template created in Theme Panel > My Library."
+msgstr ""
+
+#: ocean-footer-callout.php:278
+msgid "Content"
+msgstr ""
+
+#: ocean-footer-callout.php:345 ocean-footer-callout.php:604
+msgid "Typography"
+msgstr ""
+
+#: ocean-footer-callout.php:377
+msgid "Button"
+msgstr ""
+
+#: ocean-footer-callout.php:400
+msgid "Enable Button"
+msgstr ""
+
+#: ocean-footer-callout.php:425
+msgid "Button URL"
+msgstr ""
+
+#: ocean-footer-callout.php:440
+msgid "Get In Touch"
+msgstr ""
+
+#: ocean-footer-callout.php:451
+msgid "Button Text"
+msgstr ""
+
+#: ocean-footer-callout.php:477
+msgid "Button Target"
+msgstr ""
+
+#: ocean-footer-callout.php:482
+msgid "Blank"
+msgstr ""
+
+#: ocean-footer-callout.php:483
+msgid "Self"
+msgstr ""
+
+#: ocean-footer-callout.php:507
+msgid "Button Rel"
+msgstr ""
+
+#: ocean-footer-callout.php:512
+msgid "None"
+msgstr ""
+
+#: ocean-footer-callout.php:513
+msgid "Nofollow"
+msgstr ""
+
+#: ocean-footer-callout.php:514
+msgid "Noopener Noreferrer"
+msgstr ""
+
+#: ocean-footer-callout.php:515
+msgid "Nofollow Noopener Noreferrer"
+msgstr ""
+
+#: ocean-footer-callout.php:537
+msgid "Button Custom Classes"
+msgstr ""
+
+#: ocean-footer-callout.php:636
+msgid "Styling"
+msgstr ""
+
+#: ocean-footer-callout.php:698
+msgid "Padding (px)"
+msgstr ""
+
+#: ocean-footer-callout.php:735
+msgid "Background"
+msgstr ""
+
+#: ocean-footer-callout.php:760
+msgid "Border Color"
+msgstr ""
+
+#: ocean-footer-callout.php:785
+msgid "Text Color"
+msgstr ""
+
+#: ocean-footer-callout.php:810
+msgid "Links"
+msgstr ""
+
+#: ocean-footer-callout.php:835
+msgid "Links: Hover"
+msgstr ""
+
+#: ocean-footer-callout.php:860
+msgid "Button Border Radius (px)"
+msgstr ""
+
+#: ocean-footer-callout.php:885
+msgid "Button Background"
+msgstr ""
+
+#: ocean-footer-callout.php:910
+msgid "Button Color"
+msgstr ""
+
+#: ocean-footer-callout.php:935
+msgid "Button: Hover Background"
+msgstr ""
+
+#: ocean-footer-callout.php:960
+msgid "Button: Hover Color"
+msgstr ""
+
+#: ocean-footer-callout.php:1040
+msgid "Callout"
+msgstr ""
+
+#: ocean-footer-callout.php:1050
+msgid "Display Callout"
+msgstr ""
+
+#: ocean-footer-callout.php:1051
+msgid "Enable or disable the footer callout."
+msgstr ""
+
+#: ocean-footer-callout.php:1053
+msgid "Default"
+msgstr ""
+
+#: ocean-footer-callout.php:1054
+msgid "Enable"
+msgstr ""
+
+#: ocean-footer-callout.php:1055
+msgid "Disable"
+msgstr ""
+
+#: ocean-footer-callout.php:1072
+msgid "Callout Button Url"
+msgstr ""
+
+#: ocean-footer-callout.php:1073
+msgid "Enter a valid link."
+msgstr ""
+
+#: ocean-footer-callout.php:1089
+msgid "Callout Button Text"
+msgstr ""
+
+#: ocean-footer-callout.php:1090
+msgid "Enter your text."
+msgstr ""
+
+#: ocean-footer-callout.php:1106
+msgid "Callout Text"
+msgstr ""
+
+#: ocean-footer-callout.php:1107
+msgid "Override the default callout text."
+msgstr ""
+
+#: template/footer-callout.php:144
+msgid "Opens in a new tab"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ocean Footer Callout"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://oceanwp.org/extension/ocean-footer-callout/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add some relevant/important information about your company or product in "
+"your footer."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "OceanWP"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://oceanwp.org/"
+msgstr ""

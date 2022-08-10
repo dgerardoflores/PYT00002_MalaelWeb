@@ -1,0 +1,224 @@
+# Copyright (C) 2016 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2020-03-18 18:36+0100\n"
+"PO-Revision-Date: 2020-03-18 18:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: OceanWP\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;"
+"esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_attr__\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ocean-footer-callout.php:134 ocean-footer-callout.php:143
+msgid "Cheatin&#8217; huh?"
+msgstr "Oszukujemy&#8217; co?"
+
+#: ocean-footer-callout.php:216
+msgid "Footer Callout"
+msgstr "Wywołanie stopki motywu"
+
+#: ocean-footer-callout.php:229
+msgid "Select Template"
+msgstr "Wybierz szablon"
+
+#: ocean-footer-callout.php:230
+msgid "Choose a template created in Theme Panel > My Library."
+msgstr "Wybierz stworzony szablon w Panel motywów > Moja Biblioteka"
+
+#: ocean-footer-callout.php:248
+msgid "Content"
+msgstr "Zawartość"
+
+#: ocean-footer-callout.php:267 ocean-footer-callout.php:415
+msgid "Typography"
+msgstr ""
+
+#: ocean-footer-callout.php:290
+msgid "Button"
+msgstr "Przycisk"
+
+#: ocean-footer-callout.php:304
+msgid "Enable Button"
+msgstr "Uaktywnij przycisk"
+
+#: ocean-footer-callout.php:320
+msgid "Button URL"
+msgstr "Adres URL przycisku"
+
+#: ocean-footer-callout.php:331
+msgid "Get In Touch"
+msgstr "Skontaktuj się z nami"
+
+#: ocean-footer-callout.php:337
+msgid "Button Text"
+msgstr "Tekst przycisku"
+
+#: ocean-footer-callout.php:354
+msgid "Button Target"
+msgstr "Cel przycisku"
+
+#: ocean-footer-callout.php:359
+msgid "Blank"
+msgstr "Pusty"
+
+#: ocean-footer-callout.php:360
+msgid "Self"
+msgstr "Jednolity"
+
+#: ocean-footer-callout.php:375
+msgid "Button Rel"
+msgstr "Powiązanie przycisku"
+
+#: ocean-footer-callout.php:380
+msgid "None"
+msgstr "Brak"
+
+#: ocean-footer-callout.php:381
+msgid "Nofollow"
+msgstr "Nofollow"
+
+#: ocean-footer-callout.php:382
+msgid "Noopener Noreferrer"
+msgstr ""
+
+#: ocean-footer-callout.php:383
+msgid "Nofollow Noopener Noreferrer"
+msgstr ""
+
+#: ocean-footer-callout.php:396
+#, fuzzy
+#| msgid "Button Color"
+msgid "Button Custom Classes"
+msgstr "Kolor przycisku"
+
+#: ocean-footer-callout.php:438
+msgid "Styling"
+msgstr "Styl"
+
+#: ocean-footer-callout.php:476
+msgid "Padding (px)"
+msgstr "Odstęp (px)"
+
+#: ocean-footer-callout.php:504
+msgid "Background"
+msgstr "Tło"
+
+#: ocean-footer-callout.php:520
+msgid "Border Color"
+msgstr "Kolor obramowania"
+
+#: ocean-footer-callout.php:536
+msgid "Text Color"
+msgstr "Kolor tekstu"
+
+#: ocean-footer-callout.php:552
+msgid "Links"
+msgstr "Linki"
+
+#: ocean-footer-callout.php:568
+msgid "Links: Hover"
+msgstr "Linki po najechaniu"
+
+#: ocean-footer-callout.php:584
+msgid "Button Border Radius (px)"
+msgstr "Szerokość obramowania przycisku (px)"
+
+#: ocean-footer-callout.php:600
+msgid "Button Background"
+msgstr "Tło przycisku"
+
+#: ocean-footer-callout.php:616
+msgid "Button Color"
+msgstr "Kolor przycisku"
+
+#: ocean-footer-callout.php:632
+msgid "Button: Hover Background"
+msgstr "Kolor tła przycisku po najechaniu"
+
+#: ocean-footer-callout.php:648
+msgid "Button: Hover Color"
+msgstr "Kolor przycisku po najechaniu"
+
+#: ocean-footer-callout.php:723
+msgid "Callout"
+msgstr "Wywołanie"
+
+#: ocean-footer-callout.php:733
+msgid "Display Callout"
+msgstr "Wyświetl wywołanie"
+
+#: ocean-footer-callout.php:734
+msgid "Enable or disable the footer callout."
+msgstr "Włącz lub wyłącz wywołanie stopki motywu."
+
+#: ocean-footer-callout.php:736
+msgid "Default"
+msgstr "Domyślne"
+
+#: ocean-footer-callout.php:737
+msgid "Enable"
+msgstr "Uaktywnij"
+
+#: ocean-footer-callout.php:738
+msgid "Disable"
+msgstr "Wyłącz"
+
+#: ocean-footer-callout.php:755
+msgid "Callout Button Url"
+msgstr "Adres URL przycisku wywołania"
+
+#: ocean-footer-callout.php:756
+msgid "Enter a valid link."
+msgstr "Wprowadź poprawny link."
+
+#: ocean-footer-callout.php:772
+msgid "Callout Button Text"
+msgstr "Tekst przycisku wywołania"
+
+#: ocean-footer-callout.php:773
+msgid "Enter your text."
+msgstr "Wpisz tekst."
+
+#: ocean-footer-callout.php:789
+msgid "Callout Text"
+msgstr "Tekst wywołania"
+
+#: ocean-footer-callout.php:790
+msgid "Override the default callout text."
+msgstr "Nadpisz domyślny tekst wywołania."
+
+#: template/footer-callout.php:144
+msgid "Opens in a new tab"
+msgstr ""
+
+#~ msgid ""
+#~ "Ocean Footer Callout requires that you use OceanWP as your parent theme."
+#~ msgstr ""
+#~ "Ocean Footer Callout wymaga żebyś używał OceanWP jako głównego motywu."
+
+#~ msgid "Install OceanWP now"
+#~ msgstr "Zainstaluj OceanWP"
+
+#~ msgid "Page ID"
+#~ msgstr "ID strony"
+
+#~ msgid ""
+#~ "Deprecated, this field is no longer supported. Please use the Select "
+#~ "Template field below instead."
+#~ msgstr ""
+#~ "Pole nie jest już dłużej wspierane. Użyj pola \"Wybierz szablon\" poniżej."
